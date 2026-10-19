@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "bot24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": VOIDCRAFTSMP-88Hb.aternos.me
+    "port": 40290,
     "version": "",
     "try-creative": false
   },
